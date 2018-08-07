@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\calcular fecha\calcular fecha\bin\Debug\calcular fecha.exe.config
+C:\Users\Mauricio M\Downloads\calcular fecha\calcular fecha\bin\Debug\calcular fecha.exe
+C:\Users\Mauricio M\Downloads\calcular fecha\calcular fecha\bin\Debug\calcular fecha.pdb
+C:\Users\Mauricio M\Downloads\calcular fecha\calcular fecha\obj\Debug\calcular fecha.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\calcular fecha\calcular fecha\obj\Debug\calcular fecha.exe
+C:\Users\Mauricio M\Downloads\calcular fecha\calcular fecha\obj\Debug\calcular fecha.pdb
